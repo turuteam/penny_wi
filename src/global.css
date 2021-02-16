@@ -1,0 +1,10 @@
+body {
+  min-width: 100vw;
+  min-height: 100vh;
+  background: #16171a;
+  color: white;
+}
+
+#nprogress .bar {
+  height: 5px;
+}
